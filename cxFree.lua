@@ -1,4 +1,4 @@
--- cx altcontrol: cx v1.0F
+-- cx altcontrol: cx v1.1F
 -- made by chiiicken#3436
 
 -- This file was generated using Luraph Obfuscator v13.5.4
